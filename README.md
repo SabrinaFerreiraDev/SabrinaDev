@@ -3,6 +3,10 @@
 
 <a href="https://sabrinaferreiradev.github.io/projetos-pessoais/projeto-pokedev" target="_blank" rel="noopener noreferrer">projeto-pokedev</a></div>
 
+<div>
+  <a href="https://sabrinaferreiradev.github.io/projetos-pessoais/projeto-magickai/" target="_blank" rel="noopener noreferrer">projeto-magickai</a>
+</div>
+
 
 
 
