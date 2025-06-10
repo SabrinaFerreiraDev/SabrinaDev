@@ -4,6 +4,7 @@
 <a href="https://sabrinaferreiradev.github.io/projetos-pessoais/projeto-pokedev" target="_blank" rel="noopener noreferrer">projeto-pokedev</a></div>
 
 <div>
+  <img src="https://ik.imagekit.io/8xavbvrh7/imagemmagick.png?updatedAt=1749518133371" alt="imagem">
   <a href="https://sabrinaferreiradev.github.io/projetos-pessoais/projeto-magickai/" target="_blank" rel="noopener noreferrer">projeto-magickai</a>
 </div>
 
