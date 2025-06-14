@@ -7,6 +7,11 @@
   <img width=600px; src="https://ik.imagekit.io/8xavbvrh7/imagemmagick.png?updatedAt=1749518133371" alt="imagem">
   <a href="https://sabrinaferreiradev.github.io/projetos-pessoais/projeto-magickai/" target="_blank" rel="noopener noreferrer">projeto-magickai</a>
 </div>
+<div>
+   <a href="https://projetos-pessoais-tlvx.vercel.app/" target="_blank" rel="noopener noreferrer">project qrcode</a>
+</div>
+
+
 
 
 
