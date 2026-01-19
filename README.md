@@ -1,23 +1,35 @@
-#Ola! Eu Sou SabrinaDev#
-<div><img width=600px; src="https://ik.imagekit.io/8xavbvrh7/imagem.jpg?updatedAt=1749517677738" alt="imagem"> <br>
-<a href="https://sabrinaferreiradev.github.io/projetos-pessoais/projeto-pokedev" target="_blank" rel="noopener noreferrer">projeto-pokedev</a></div>
-<br>
-<div>
-  <img width=600px; src="https://ik.imagekit.io/8xavbvrh7/imagemmagick.png?updatedAt=1749518133371" alt="imagem"> <br>
-  <a href="https://sabrinaferreiradev.github.io/projetos-pessoais/projeto-magickai/" target="_blank" rel="noopener noreferrer">projeto-magickai</a>
-</div> <br>
-<div>
-  <img width=600px; src="https://ik.imagekit.io/8xavbvrh7/Captura%20de%20tela%202025-06-14%20162823.png?updatedAt=1749929483265" alt="imagem"> <br>
-   <a href="https://projetos-pessoais-tlvx.vercel.app/" target="_blank" rel="noopener noreferrer">projeto Android</a>
-</div> <br>
-<div>
-    <img width=600px; src="https://ik.imagekit.io/8xavbvrh7/Captura%20de%20tela%202025-06-17%20133739.png?updatedAt=1750178290727" alt="imagem"> <br>
-  <a href="https://frontmentor-m9pd.vercel.app/" target="_blank" rel="noopener noreferrer">projeto receita</a>
-</div> <br>
+## Oi 👋
 
+Oi, eu sou a Sabrina!
+Tenho 21 anos e estou estudando para me tornar uma desenvolvedora Full Stack.
 
+Este é o espaço onde compartilho minha jornada de aprendizado, meus estudos e projetos enquanto evoluo no mundo do desenvolvimento de software.
 
+* 💬 Pode me perguntar sobre meus estudos e projetos
+* 📫 Como falar comigo: @sabrina_souzz7
 
+---
 
+### Conecte-se comigo:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/sabrina-ferreira-802a8a378)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge\&logo=instagram)](https://www.instagram.com/sabrina_souzz7/)
 
+---
+
+### Linguagens e Tecnologias:
+
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+
+---
+
+### Estatísticas do GitHub:
+
+![Estatísticas do GitHub da Sabrina](https://github-readme-stats.vercel.app/api?username=SabrinaFerreiraDev\&show_icons=true\&theme=dark)
