@@ -12,7 +12,7 @@ Este é o espaço onde compartilho minha jornada de aprendizado, meus estudos e 
 
 ### Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/sabrina-ferreira-802a8a378)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sabrina-ferreira-802a8a378/)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge\&logo=instagram)](https://www.instagram.com/sabrina_souzz7/)
 
 ---
